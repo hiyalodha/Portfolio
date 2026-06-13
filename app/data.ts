@@ -79,6 +79,22 @@ export const research = [
 
 export const experience = [
   {
+  role: 'AI/ML Engineer',
+  company: 'Namo Labs',
+  location: 'India',
+  period: 'June 2026 – Present',
+  description: 'Developing AI-powered solutions, improving model performance, and building scalable data pipelines for intelligent products.',
+  skills: ['Machine Learning', 'Python', 'Data Analytics', 'MLOps'],
+},
+  {
+  role: 'AI/ML Intern',
+  company: 'Pyrotech Workspace Solutions Pvt. Ltd.',
+  location: 'India',
+  period: 'June 2026 – Present',
+  description: 'Building AI/ML solutions and supporting manufacturing process optimization through data-driven insights and automation.',
+  skills: ['Machine Learning', 'Python', 'Manufacturing Analytics', 'Power BI'],
+},
+  {
     role: 'Summer Intern',
     company: 'Hualong Machinery Co. Ltd',
     location: 'China',
@@ -88,15 +104,6 @@ export const experience = [
     certificateUrl: '/certificates/hualong.pdf', // Add your PDF path here
   },
   {
-    role: 'Data Analytics Intern',
-    company: 'YrcAiri Tech (OPC) Pvt. Ltd',
-    location: 'India',
-    period: 'June – July 2025',
-    description: 'Data cleaning, visualization, and interpretation of structured datasets. Extracted actionable insights for strategic decision-making.',
-    skills: ['Data Analytics', 'Python', 'Visualization'],
-    certificateUrl: '/certificates/yrcairi.pdf', // Add your PDF path here
-  },
-  {
     role: 'Mechanical Engineering Intern',
     company: 'Foshan Shuoyu Machinery R&D Co. Ltd',
     location: 'China',
@@ -104,6 +111,15 @@ export const experience = [
     description: 'Exposure to quartz manufacturing machinery systems. Developed understanding of machine design and integration of mechanical, electrical, and software systems.',
     skills: ['Machine Design', 'R&D', 'Industrial Systems'],
     certificateUrl: '/certificates/foshan.pdf', // Add your PDF path here
+  },
+    {
+    role: 'Data Analytics Intern',
+    company: 'YrcAiri Tech (OPC) Pvt. Ltd',
+    location: 'India',
+    period: 'June – July 2025',
+    description: 'Data cleaning, visualization, and interpretation of structured datasets. Extracted actionable insights for strategic decision-making.',
+    skills: ['Data Analytics', 'Python', 'Visualization'],
+    certificateUrl: '/certificates/yrcairi.pdf', // Add your PDF path here
   },
 ]
 
