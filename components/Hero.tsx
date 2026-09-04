@@ -79,7 +79,7 @@ export default function Hero() {
         {/* Right Space - Profile Image */}
         <div className="fade-in-up flex-shrink-0 md:mt-4">
           <img 
-            src="/hiya_profile_picure.jpeg" 
+            src="/profile.png" 
             alt="Hiya Lodha" 
             className="w-48 h-48 md:w-64 md:h-64 lg:w-72 lg:h-72 rounded-full object-cover"
             style={{ 
